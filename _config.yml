@@ -1,10 +1,10 @@
 # Site settings
-title: Ombarus Dev
+title: Solar Rogue
 email: ombarus.dev@gmail.com
 url: https://ombarus.com/
-description: "Ombarus, Programmer, Game Developper in any language from C/C++/C# to Python & Ruby and even Java. I worked for 8 years in a Mobile Video Game Company in Canada where I worked on everything : Physics, Graphics, AI, Camera, UI and everything in-between."
-keywords: "Ombarus, Programmer, C++, Developper, Video Game, Mobile, Mobile App, Freelancer"
-skills: "Programmer - C++ - C# - Python"
+description: "Solar rogue is a space exploration adventure in the purest tradition of roguelike. Featuring procedurally generated solar systems, perma-death, tactical turned-based gameplay and a variety of ships, planets and ennemy to challenge!"
+keywords: "Ombarus, Solar Rogue, Roguelike, Video Game, Mobile, Mobile App, PC, Steam, Itch.io, Tactical, Turn-Based"
+skills: "Turn-Based Space Opera"
 meta_author: Bouvier Guillaume
 
 # Google webmaster tools
@@ -25,10 +25,11 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2d2d2a #1e893c
-  primary-rgb: "45,45,42" #"30,137,60"
-  secondary: 1e893c #353831
-  secondary-dark: 353831 #2d2d2a
+  primary: 283845 #1481ba light blue
+  primary-alt: B5BEC6 #034748 dark green #3A506B puple blue
+  primary-rgb: "9,9,8"
+  secondary: 090908
+  secondary-dark: 2b2b2b
 
 # Footer settings
 footer:
