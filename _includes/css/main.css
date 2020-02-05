@@ -25,6 +25,23 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+a.comingsoon:hover,
+a.comingsoon:focus,
+a.comingsoon:active,
+a.comingsoon.active {
+	font-size:0;
+    border: solid 2px #fff;
+    color: #ff0000;
+    background: #fff;
+}
+a.comingsoon:hover:after,
+a.comingsoon:focus:after,
+a.comingsoon:active:after,
+a.comingsoon.active:after {
+	content: 'Coming Soon!';
+	font-size: 20px;
+}
+
 h1,
 h2,
 h3,
@@ -266,12 +283,13 @@ section.success {
 }
 
 .btn-outline {
+	width:180px;
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
     color: #fff;
     background: 0 0;
-    transition: all .3s ease-in-out;
+    transition: background-color .3s ease-in-out, color .3s ease-in-out;
 }
 
 .btn-outline:hover,
@@ -402,6 +420,7 @@ footer .footer-below {
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
+	background-color: #{{ site.color.primary-alt }};
     border: 0;
     border-radius: 0;
     text-align: center;
@@ -467,4 +486,25 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.prev, .next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	margin-top: -22px;
+	padding: 16px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
+	font-size:4em;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
 }
