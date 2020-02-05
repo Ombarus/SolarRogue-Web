@@ -3,7 +3,7 @@ title: Dice DM Free
 layout: default
 modal-id: DiceDM
 date: 2018-10-31
-img: dicedm.png
+img: solar01.png
 alt: Promotional Banner for Dice DM on Google Play
 project-date: October 2018
 iOS: Dice DM Plus

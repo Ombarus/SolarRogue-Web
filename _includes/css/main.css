@@ -92,6 +92,10 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+	background-image: url(img/profile.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	min-height: 800px;
 }
 
 header .container {
@@ -106,6 +110,7 @@ header img {
 
 header .intro-text .name {
     display: block;
+	margin-top: 200px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
