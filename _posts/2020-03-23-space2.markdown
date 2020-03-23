@@ -3,7 +3,7 @@ title: Killing Time 1
 layout: default
 modal-id: space2
 date: 2020-03-23
-img: gameplay01_1.1.8.png
+img: gameplay01_1.1.8.jpg
 alt: New procedurally generated solar system each game
 description: <p>Explore the vast universe!</p>
 

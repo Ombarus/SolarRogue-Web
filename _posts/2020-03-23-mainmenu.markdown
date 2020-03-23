@@ -3,7 +3,7 @@ title: Leaderboard
 layout: default
 modal-id: solar07
 date: 2020-03-23
-img: gameplay01_1.1.1.png
+img: gameplay01_1.1.1.jpg
 alt: The main menu with the leaderboard
 description: <p>Track and compare your progress after each game with the leaderboard</p>
 

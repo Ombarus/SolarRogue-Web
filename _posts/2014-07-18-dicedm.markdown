@@ -3,7 +3,7 @@ title: Killing Time 1
 layout: default
 modal-id: solar01
 date: 2018-10-31
-img: solar01.png
+img: solar01.jpg
 alt: The ennemy Scout is shooting our Frigate
 description: <p>The ennemy Scout is shooting our Frigate!</p>
 

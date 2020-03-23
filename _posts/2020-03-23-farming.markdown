@@ -3,7 +3,7 @@ title: Harvesting Planets
 layout: default
 modal-id: solar04
 date: 2020-03-23
-img: gameplay01_1.1.5.png
+img: gameplay01_1.1.5.jpg
 alt: Shoot planet and asteroid to harvest their minerals
 description: <p>Shoot planet and asteroid to harvest their minerals</p>
 
