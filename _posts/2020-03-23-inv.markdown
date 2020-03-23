@@ -1,0 +1,10 @@
+---
+title: Inventory
+layout: default
+modal-id: solar05
+date: 2020-03-23
+img: gameplay01_1.1.6.png
+alt: Browsing the ship's cargo holds
+description: <p>Equip your ship with the latest technologies!</p>
+
+---

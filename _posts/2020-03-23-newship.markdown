@@ -1,0 +1,10 @@
+---
+title: Craft new ships
+layout: default
+modal-id: solar08
+date: 2020-03-23
+img: gameplay01_1.1.4.png
+alt: Crafting a new frigate
+description: <p>With enough spare parts and energy you can even upgrade to a bigger, better, more deadly ship!</p>
+
+---
