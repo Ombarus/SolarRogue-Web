@@ -1,9 +1,9 @@
 ---
-title: Killing Time 1
+title: Exploration
 layout: default
-modal-id: space2
+modal-id: solar12
 date: 2020-03-23
-img: gameplay01_1.1.8.jpg
+img: ingame_1.2.13.jpg
 alt: New procedurally generated solar system each game
 description: <p>Explore the vast universe!</p>
 

@@ -1,9 +1,9 @@
 ---
 title: Space Exploration
 layout: default
-modal-id: space1
+modal-id: solar11
 date: 2020-03-23
-img: gameplay01_1.1.7.jpg
+img: ingame_1.2.12.jpg
 alt: New procedurally generated solar system each game
 description: <p>Explore the vast universe!</p>
 

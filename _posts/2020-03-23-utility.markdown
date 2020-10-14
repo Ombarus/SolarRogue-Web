@@ -1,0 +1,10 @@
+---
+title: Cool Utilities
+layout: default
+modal-id: solar13
+date: 2020-03-23
+img: ingame_1.1.8.jpg
+alt: Install a wide range of utility
+description: <p>Equip your ship with all sorts of tools!</p>
+
+---

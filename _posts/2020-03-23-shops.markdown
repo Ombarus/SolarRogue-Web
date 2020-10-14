@@ -1,0 +1,10 @@
+---
+title: Shops
+layout: default
+modal-id: solar10
+date: 2020-03-23
+img: ingame_1.2.15.jpg
+alt: Crafting or Buying in the Human Coalition
+description: <p>Crafting or Buying in the Human Coalition!</p>
+
+---
